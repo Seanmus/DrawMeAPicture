@@ -12,6 +12,7 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
+	//Hello there general kenobi only siths speak in absolutes
 	ofBackground(196, 158, 133);
 	const int triangleSize = static_cast<int>(ofGetWidth() / 24);
 	//Cave
